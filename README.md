@@ -55,24 +55,24 @@ pip install -r requirements.txt
 ---
 3.**Run the notebooks in order:**
 Step 1: Open and run Flight_Regressor_Model.ipynb
-a)Cleans the dataset
-b)Performs feature engineering
-c)Trains multiple regression models
-d)Selects the best model
-e)Saves the model as a .pkl file
+- a)Cleans the dataset
+- b)Performs feature engineering
+- c)Trains multiple regression models
+- d)Selects the best model
+- e)Saves the model as a .pkl file
 
 Step 2: Open and run Flight_Prediction_System.ipynb
-a)Loads the trained model
-b)Takes user input via widgets or manual code
-c)Predicts flight fare based on input features
+- a)Loads the trained model
+- b)Takes user input via widgets or manual code
+- c)Predicts flight fare based on input features
 
 ---
 
 **📈 Features**
-a)Regression-based fare prediction
-b)Model comparison using R² score and other metrics
-c)User-friendly input format
-d)Real-time prediction using saved model
+- a)Regression-based fare prediction
+- b)Model comparison using R² score and other metrics
+- c)User-friendly input format
+- d)Real-time prediction using saved model
 
 
 
